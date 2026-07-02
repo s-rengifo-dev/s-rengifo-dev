@@ -1,5 +1,5 @@
 # Sebastian Rengifo Medina
-**QA Automation Engineer, Developer & Cybersecurity Specialist.**
+**QA Automation Engineer & Developer.**
 
 Técnico en Análisis y Desarrollo de Software. Enfocado en la creación de frameworks de automatización escalables, desarrollo de aplicaciones móviles y soluciones backend robustas.
 
